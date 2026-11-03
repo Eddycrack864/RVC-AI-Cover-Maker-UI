@@ -1,3 +1,7 @@
+> [!WARNING]
+> **This project is archived and will no longer be updated.**
+> Please use the new project instead: **[AI Cover Maker](https://github.com/Eddycrack864/AI-Cover-Maker)**.
+
 <div align="center">
   
 # <a href="https://github.com/Eddycrack864/RVC-AI-Cover-Maker-UI" target="_blank"><img src="https://github.com/Eddycrack864/RVC-AI-Cover-Maker-UI/blob/main/assets/RVCCoverWebUI.png" alt="RVCAICoverMaker"></a>
